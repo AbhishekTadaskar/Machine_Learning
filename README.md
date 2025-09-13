@@ -25,7 +25,7 @@ flowchart TD
     E --> E1[Neural Networks]
     E --> E2[Convolutional Neural Networks - CNNs]
     E --> E3[Recurrent Neural Networks - RNNs]
-
+~~~
 ## 🔎 Sub-Branches Explained
 ### 1. Supervised Learning
 
