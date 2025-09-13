@@ -1,5 +1,8 @@
 # Machine_Learning
+## 🤖 Machine Learning Flowchart & Sub-Branches
+## 🌐 What is Machine Learning?
 
+Machine Learning (ML) is a subset of Artificial Intelligence (AI) that enables systems to learn from data and improve their performance over time without being explicitly programmed.
 ~~~mermaid
 flowchart TD
     A[Machine Learning] --> B[Supervised Learning]
