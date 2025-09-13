@@ -3,6 +3,9 @@
 ## 🌐 What is Machine Learning?
 
 Machine Learning (ML) is a subset of Artificial Intelligence (AI) that enables systems to learn from data and improve their performance over time without being explicitly programmed.
+## 🏗️ ML Flowchart Overview
+
+Below is a flowchart that shows the main branches of Machine Learning and their key categories:
 ~~~mermaid
 flowchart TD
     A[Machine Learning] --> B[Supervised Learning]
@@ -22,3 +25,16 @@ flowchart TD
     E --> E1[Neural Networks]
     E --> E2[Convolutional Neural Networks - CNNs]
     E --> E3[Recurrent Neural Networks - RNNs]
+
+## 🔎 Sub-Branches Explained
+### 1. Supervised Learning
+
+Definition: Learning from labeled data (input → output).
+
+Subtypes:
+
+Regression → Predicts continuous values (e.g., house prices, temperature).
+
+Classification → Predicts categories (e.g., spam vs. not spam, disease detection).
+
+Examples: Predicting stock prices, image recognition.
