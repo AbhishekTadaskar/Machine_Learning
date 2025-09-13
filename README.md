@@ -75,4 +75,42 @@ flowchart TD
 
 ---
 
-Would you like me to also **add a "Tools & Libraries" section** at the very end (like Scikit-learn → classical ML, TensorFlow/PyTorch → Deep Learning, OpenAI Gym → Reinforcement Learning) so it feels like a **complete professional README**?
+## 📊 Common Algorithms & Applications
+
+| **Branch**            | **Algorithm**              | **Use Case**                                     |
+|------------------------|----------------------------|-------------------------------------------------|
+| Supervised Learning    | Linear Regression          | Predicting house prices                         |
+| Supervised Learning    | Logistic Regression        | Disease diagnosis (yes/no)                      |
+| Supervised Learning    | Decision Trees             | Loan approval, medical diagnosis                |
+| Supervised Learning    | Random Forest              | Credit risk prediction                          |
+| Supervised Learning    | Support Vector Machine     | Image classification                            |
+| Supervised Learning    | k-Nearest Neighbors (kNN)  | Handwriting recognition                         |
+| Unsupervised Learning  | K-Means Clustering         | Customer segmentation                           |
+| Unsupervised Learning  | DBSCAN                     | Anomaly detection                               |
+| Unsupervised Learning  | Hierarchical Clustering    | Document/topic grouping                         |
+| Unsupervised Learning  | Apriori Algorithm          | Market basket analysis                          |
+| Unsupervised Learning  | PCA (Dimensionality Reduction) | Data compression, visualization            |
+| Reinforcement Learning | Q-Learning                 | Game playing agents                             |
+| Reinforcement Learning | Deep Q-Network (DQN)       | Self-driving cars                               |
+| Reinforcement Learning | Policy Gradient Methods    | Robotics, adaptive control                      |
+| Deep Learning          | Artificial Neural Networks | General prediction tasks                        |
+| Deep Learning          | Convolutional NN (CNN)     | Object detection in images                      |
+| Deep Learning          | Recurrent NN (RNN, LSTM)   | Text generation, speech recognition             |
+| Deep Learning          | Transformers (BERT, GPT)   | NLP tasks: translation, summarization, chatbots |
+
+---
+
+## 🛠️ Tools & Libraries
+
+| **Category**             | **Popular Libraries/Frameworks**                          |
+|---------------------------|-----------------------------------------------------------|
+| Classical ML              | Scikit-learn, XGBoost, LightGBM                          |
+| Deep Learning             | TensorFlow, Keras, PyTorch, Theano                       |
+| Reinforcement Learning    | OpenAI Gym, Stable Baselines, RLlib                      |
+| Data Manipulation         | Pandas, NumPy                                            |
+| Data Visualization        | Matplotlib, Seaborn, Plotly                              |
+| Model Deployment          | Streamlit, Flask, FastAPI, MLflow                        |
+| Big Data & Distributed ML | Apache Spark (MLlib), Dask                               |
+| NLP                       | Hugging Face Transformers, NLTK, SpaCy                   |
+| Computer Vision           | OpenCV, Detectron2, YOLO, MMDetection                    |
+
