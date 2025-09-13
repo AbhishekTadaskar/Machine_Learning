@@ -1,6 +1,7 @@
-# 📘 Machine Learning Overview  
-> 🧠 Learn • 📊 Build • 🚀 Deploy  
-## 🤖 Machine Learning Flowchart & Sub-Branches
+# 🤖 Machine Learning Roadmap 🚀  
+### Unlocking the Power of Data with Supervised, Unsupervised, Reinforcement & Deep Learning
+ 
+##  Machine Learning Flowchart & Sub-Branches
 ## 🌐 What is Machine Learning?
 
 Machine Learning (ML) is a subset of Artificial Intelligence (AI) that enables systems to learn from data and improve their performance over time without being explicitly programmed.
