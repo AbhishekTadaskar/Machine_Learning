@@ -17,6 +17,5 @@ flowchart TD
     D --> D2[Policy Optimization]
 
     E --> E1[Neural Networks]
-    E --> E2[Convolutional Neural Networks (CNNs)]
-    E --> E3[Recurrent Neural Networks (RNNs)]
-
+    E --> E2[Convolutional Neural Networks - CNNs]
+    E --> E3[Recurrent Neural Networks - RNNs]
