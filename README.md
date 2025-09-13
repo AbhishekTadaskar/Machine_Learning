@@ -71,3 +71,8 @@ flowchart TD
 - **Unsupervised Learning** → Unlabeled data → Clustering & Association  
 - **Reinforcement Learning** → Learn by interaction → Rewards & Penalties  
 - **Deep Learning** → Neural networks for images, speech, and NLP  
+
+
+---
+
+Would you like me to also **add a "Tools & Libraries" section** at the very end (like Scikit-learn → classical ML, TensorFlow/PyTorch → Deep Learning, OpenAI Gym → Reinforcement Learning) so it feels like a **complete professional README**?
